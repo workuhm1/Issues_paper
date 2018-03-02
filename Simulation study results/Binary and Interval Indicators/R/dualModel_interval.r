@@ -21,7 +21,7 @@ dualModel <- function(dataY, dataXX, file, seed){
                       "f2@1",
                       ";", sep=" ")
   
-  ## The MIMIC model, with Exogeneous variables
+  ## The MIMIC model, with exogenous variables
   model_spec2 = paste("\n f1 BY", paste(Y_names[1],"*",sep=""),
                       paste(Y_names[2:(b/2)],collapse=" "),
                       ";\n", 

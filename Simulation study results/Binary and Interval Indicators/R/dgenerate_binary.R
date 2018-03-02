@@ -25,10 +25,10 @@ dgenerateBinary = function(N, P, rho_lat, lambda, prob, seed){
 
 
             ## ----------------------------------------------------------
-            ## STEP-1: generate the exogeneous variables, X ~ N(0, sigma)
+            ## STEP-1: generate the exogenous variables, X ~ N(0, sigma)
             ## ----------------------------------------------------------
 
-            ## regression coefficients for exogeneous variables, gamma (Mplus notation)
+            ## regression coefficients for exogenous variables, gamma (Mplus notation)
             gammaEDU1=-0.10; gammaEDU2=-0.20; gammaGEN1=gammaGEN2=0; gammaAGE1=gammaAGE2=0
             gammaN1=1.00; gammaN2=0.95; gammaE1=-0.30; gammaE2=-0.25;
             gammaA1=gammaA2=0; gammaC1=0; gammaC2=0.10; gammaO1=gammaO2=0
