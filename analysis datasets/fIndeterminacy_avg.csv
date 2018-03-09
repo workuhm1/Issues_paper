@@ -1,0 +1,10 @@
+Type_of_Indicators,Number_of_Indicators,avg_fIndeterminacy
+BLR,6,0.45
+BLR,10,0.54
+BLR,16,0.62
+BMR,6,0.6
+BMR,10,0.69
+BMR,16,0.76
+Interval,6,0.7
+Interval,10,0.79
+Interval,16,0.85

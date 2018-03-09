@@ -1,0 +1,10 @@
+Type_of_Indicators,Number_of_Indicators,avg_nonconvergence
+BLR,6,50.97
+BLR,10,33.72
+BLR,16,21.83
+BMR,6,33.75
+BMR,10,15.14
+BMR,16,6.25
+Interval,6,5.25
+Interval,10,2.36
+Interval,16,0.42
